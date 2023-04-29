@@ -1,10 +1,10 @@
-# Zillow Chrome Extension
+# Zillow Chrome Extension 🏠 
 
-This repo allows users to export listing data from a zillow search as a CSV and get the median and mean sold home prices in an area. It was created for a tutorial on building a zillow chrome extension with react. If you have any questions with the code or how to get things set up, I recommend reading the blog posts links below. 
+This repo is for a simple chrome extension that allows users to export listing data from a zillow search as a CSV and get the median and mean sold home prices in an area. It was created for a tutorial on building a zillow chrome extension with react. If you have any questions with the code or how to get things set up, I recommend reading the blog posts links below. 
 
 # Blog Post Links
-- [Part 1](https://medium.com/@michaelbranconier/creating-a-zillow-chrome-extension-with-react-part-1-76f75bcada3e)
-- [Part 2](https://medium.com/@michaelbranconier/creating-a-zillow-chrome-extension-with-react-part-2-94c2937b2a3d)
+- [Part 1](https://medium.com/@michaelbranconier/creating-a-zillow-chrome-extension-with-react-part-1-76f75bcada3e) 🔗
+- [Part 2](https://medium.com/@michaelbranconier/creating-a-zillow-chrome-extension-with-react-part-2-94c2937b2a3d) 🔗
 
 # How to Run
 1. Clone Repo
